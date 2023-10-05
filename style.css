@@ -1,0 +1,21 @@
+nav{
+    text-align: center;
+}
+
+.contenido{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+
+.rojo{
+    color: red;
+}
+
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
